@@ -1,0 +1,23 @@
+{
+  "name": "performance-example",
+  "version": "1.0.0",
+  "description": "Project from the course: \"Complete Node.js Developer in 2022: Zero to Mastery\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbeto21/node-performance-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbeto21/node-performance-example/issues"
+  },
+  "homepage": "https://github.com/gbeto21/node-performance-example#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
